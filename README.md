@@ -154,13 +154,6 @@ The dashboard tracks the following key performance indicators:
 
 ---
 
-## Dashboard Preview
-
-### Main Dashboard
-
-![Website Traffic & Sales Performance Dashboard](Dashboard.png)
-
----
 
 ## Skills Demonstrated
 
@@ -208,7 +201,7 @@ This project demonstrates the ability to work with large-scale datasets containi
 
 ### Author
 
-**Eman Amir**
+**Ahmed Khalifa**
 Data Analytics Portfolio Project
 
 **Tools:** Power BI | Excel
